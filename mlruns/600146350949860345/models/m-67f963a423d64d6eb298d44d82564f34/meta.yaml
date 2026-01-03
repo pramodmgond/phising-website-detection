@@ -1,0 +1,10 @@
+artifact_location: file:C:\Users\pramod\Desktop\KRISH_ACADEMY\LLMOPS_Projects\phising-website-detection/mlruns/600146350949860345/models/m-67f963a423d64d6eb298d44d82564f34/artifacts
+creation_timestamp: 1767429992895
+experiment_id: '600146350949860345'
+last_updated_timestamp: 1767429997577
+model_id: m-67f963a423d64d6eb298d44d82564f34
+model_type: null
+name: ann_model
+source_run_id: 3211ff8595b4442aad3dbe2a0e6face2
+status: 2
+status_message: null

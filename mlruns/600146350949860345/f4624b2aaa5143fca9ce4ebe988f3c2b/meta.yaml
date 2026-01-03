@@ -1,0 +1,14 @@
+artifact_uri: file:C:\Users\pramod\Desktop\KRISH_ACADEMY\LLMOPS_Projects\phising-website-detection/mlruns/600146350949860345/f4624b2aaa5143fca9ce4ebe988f3c2b/artifacts
+end_time: 1767429989162
+entry_point_name: ''
+experiment_id: '600146350949860345'
+lifecycle_stage: active
+run_id: f4624b2aaa5143fca9ce4ebe988f3c2b
+run_name: XGBoost_Phishing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767429978433
+status: 3
+tags: []
+user_id: pramod

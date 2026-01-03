@@ -1,0 +1,14 @@
+artifact_uri: file:C:\Users\pramod\Desktop\KRISH_ACADEMY\LLMOPS_Projects\phising-website-detection/mlruns/600146350949860345/3211ff8595b4442aad3dbe2a0e6face2/artifacts
+end_time: 1767429997603
+entry_point_name: ''
+experiment_id: '600146350949860345'
+lifecycle_stage: active
+run_id: 3211ff8595b4442aad3dbe2a0e6face2
+run_name: ANN_MLP_Phishing
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767429989177
+status: 3
+tags: []
+user_id: pramod

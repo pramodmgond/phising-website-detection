@@ -1,0 +1,10 @@
+artifact_location: file:C:\Users\pramod\Desktop\KRISH_ACADEMY\LLMOPS_Projects\phising-website-detection/mlruns/600146350949860345/models/m-9933e5cbe5624a00809b875b1b4812f3/artifacts
+creation_timestamp: 1767429501306
+experiment_id: '600146350949860345'
+last_updated_timestamp: 1767429506929
+model_id: m-9933e5cbe5624a00809b875b1b4812f3
+model_type: null
+name: xgboost_model
+source_run_id: 91fe9cf1035943ecad47e3ad7ba3c35a
+status: 2
+status_message: null
